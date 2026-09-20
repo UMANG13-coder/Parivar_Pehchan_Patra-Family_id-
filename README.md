@@ -1,4 +1,4 @@
-# 🇮🇳 Parivar Pehchaan Patra (Family Identity Card)
+# Parivar Pehchaan Patra (Family Identity Card)
 > A Unified E-Governance Platform for Family-based Welfare Scheme Management
 
 ## 📖 Overview
